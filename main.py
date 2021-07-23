@@ -1,0 +1,5 @@
+print('abc')
+name = input(" hãy nhập tên của bạn: ")
+print(f'chào mừng {name} đến với python')
+year_of_birth = int(input("hãy nhập năm sinh của bạn"))
+print(f"năm nay bạn {2021 - year_of_birth} tuổi")
